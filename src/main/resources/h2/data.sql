@@ -1,0 +1,11 @@
+-- INSERT INTO MEMBERS(id, name, age)
+-- VALUES (1, "김두한", 30);
+--
+-- INSERT INTO MEMBERS(id, name, age)
+-- VALUES (2, "문영철", 32);
+--
+-- INSERT INTO MEMBERS(id, name, age)
+-- VALUES (3, "김무옥", 31);
+--
+-- INSERT INTO MEMBERS(id, name, age)
+-- VALUES (4, "시라소니", 33);
